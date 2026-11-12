@@ -1,0 +1,12 @@
+# Raw Instagram downloads. Only the resized picks in site/assets/photos are used.
+ig-originals/
+
+# Leftovers from the earlier design variants (no longer built or linked).
+site/a/
+site/b/
+site/c/
+site/assets/variants.css
+
+node_modules/
+.DS_Store
+Thumbs.db
